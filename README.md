@@ -1,2 +1,2 @@
 # Web Development
- i am throwing my project online
+ Digital design is like painting, except the paint never dries.
